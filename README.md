@@ -14,6 +14,16 @@ Accomplished Architect and Software Developer adept in designing distributed sys
 - **Dmoney**: Prepare project plans and documents of architecture and design with projects about a payment and [digital wallet system](https://www.dmoney.com.bd/service.html)
 - **LEADS**: Develop banking service of a [core banking system](https://leads.com.bd/).
 
+## **Statistics**
+
+<a href="https://github.com/HasanShahjahan/HasanShahjahan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanShahjahan&theme=graywhite&show_icons=true&show_icons=true&hide=contribs&line_height=30&hide_title=true&disable_animations=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/HasanShahjahan/HasanShahjahan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanShahjahan&theme=graywhite&show_icons=true&count_private=true&langs_count=10&layout=compact&hide_border=true" alt="Language Stats" />
+</a>
+
+
 ### Contact
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/hasan-shahjahan/) or at shahjahan@smiah.dev
