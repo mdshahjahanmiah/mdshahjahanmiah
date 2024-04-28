@@ -4,7 +4,7 @@ I live in Frankfurt, Germany.
 Accomplished Architect and Software Developer adept in designing distributed systems, crafting product architecture, and delivering cutting-edge solutions within the trading and financial processing sector. Proficient in software development and architecture utilizing C# (.Net Core), and Golang languages.
 
 ### Writing
-- 💬 I share what I've learned on software engineering on [medium](https://medium.com/@hasanshahjahan). 
+- 💬 I share what I've learned on software engineering on [miah.dev](https://smiah.dev/) , [medium](https://medium.com/@hasanshahjahan) , [linkedin](https://www.linkedin.com/in/hasan-shahjahan/recent-activity/articles/). 
 - 📕 Here is a bit more about [me](https://smiah.dev/).
 
 ### Work
