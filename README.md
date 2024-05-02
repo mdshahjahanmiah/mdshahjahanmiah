@@ -16,11 +16,11 @@ Accomplished Architect and Software Developer adept in designing distributed sys
 
 ## **Statistics**
 
-<a href="https://github.com/HasanShahjahan/HasanShahjahan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanShahjahan&theme=graywhite&show_icons=true&show_icons=true&hide=contribs&line_height=30&hide_title=true&disable_animations=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
+<a href="https://github.com/mdshahjahanmiah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshahjahanmiah&theme=graywhite&show_icons=true&show_icons=true&hide=contribs&line_height=30&hide_title=true&disable_animations=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/HasanShahjahan/HasanShahjahan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanShahjahan&theme=graywhite&show_icons=true&count_private=true&langs_count=10&layout=compact&hide_border=true" alt="Language Stats" />
+<a href="https://github.com/mdshahjahanmiah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahjahanmiah&theme=graywhite&show_icons=true&count_private=true&langs_count=10&layout=compact&hide_border=true" alt="Language Stats" />
 </a>
 
 <h2 align="center">🛠 Technologies & Skils</h2>
