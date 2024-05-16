@@ -3,7 +3,7 @@ Senior Backend Engineer @[Boerse Stuttgart Digital](https://www.bsdigital.com/en
 I live in Frankfurt, Germany. 
 Accomplished Architect and Software Developer adept in designing distributed systems, crafting product architecture, and delivering cutting-edge solutions within the trading and financial processing sector. Highly skilled software developer and architecture utilizing with extensive experience in Go and C#. 
 
-Currently expanding knowledge and expertise in C++. Strong problem-solving abilities and a track record of delivering high-quality software solutions.
+Currently expanding knowledge and expertise in C++.
 
 ### Writing
 - 💬 I share what I've learned on software engineering on [miah.dev](https://smiah.dev/) , [medium](https://medium.com/@hasanshahjahan) , [linkedin](https://www.linkedin.com/in/hasan-shahjahan/recent-activity/articles/). 
