@@ -11,7 +11,7 @@ Currently expanding knowledge and expertise in C++.
 
 ### Work
 - **Boerse Stuttgart**: Developed [FIX Gateway](https://docs.bsdex.de/#section/fix-api) from scratch with [FIX.4.4](https://www.fixtrading.org/standards/fix-4-4/) protocol. Currently adapting existing systems to comply with [Markets Crypto Assets Regulation (MiCA)](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica).
-- **Box24**: Woring as solution architect in an IT delivery team for [Nationwide Smart Parcel Locker-Singapore](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/nationwide-parcel-locker-network-launched), responsible for delivery architecture for IOT based web and digital deliveries, designing new and innovating solutions in a company
+- **Box24**: Working as solution architect in an IT delivery team for [Nationwide Smart Parcel Locker-Singapore](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/nationwide-parcel-locker-network-launched), responsible for delivery architecture for IOT based web and digital deliveries, designing new and innovating solutions in a company
 - **2C2P**: Worked on teams who was responsible for the domain architecture design for [EMV® 3-D Secure](https://developer.2c2p.com/docs/direct-api-method-3ds-card-payment). Develop the scoring procedure of RBA by considering all card providers.
 - **Dmoney**: Prepare project plans and documents of architecture and design with projects about a payment and [digital wallet system](https://www.dmoney.com.bd/service.html)
 - **LEADS**: Develop banking service of a [core banking system](https://leads.com.bd/).
