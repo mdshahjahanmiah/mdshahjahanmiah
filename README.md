@@ -1,7 +1,7 @@
 Staff Software Engineer @[NEURA Robotics](https://neura-robotics.com/).
 
 ### Writing
-- 💬 I share what I've learned on software engineering on [miah.dev](https://smiah.dev/) , [medium](https://medium.com/@hasanshahjahan) , [linkedin](https://www.linkedin.com/in/hasan-shahjahan/recent-activity/articles/). 
+- 💬 I share what I've learned on software engineering on [miah.dev](https://smiah.dev/) , [medium](https://medium.com/@hasanshahjahan) , [linkedin](https://www.linkedin.com/in/smiah/). 
 - 📕 Here is a bit more about [me](https://smiah.dev/).
 
 ### Work
